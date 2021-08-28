@@ -1,5 +1,11 @@
 # Blood-Bank-Management-System
 This project builds using JFrames in java language as the part of front end designing, for the back end used phpMyAdmin for database creation and stored in xampp server. Using JDBC driver I connected front end to the database. This project is used to reduce the time required to deliver required blood to the needy in cases of emergency.
+
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/52703930/131209618-b457932d-233c-40e9-a976-9169fc87c4c1.png)
 ![image](https://user-images.githubusercontent.com/52703930/131209627-1cddfa49-f6ff-48ff-8ae1-730d2d0af867.png)
 ![image](https://user-images.githubusercontent.com/52703930/131209632-7660f5e4-08fe-493d-b7ae-98c5d80711bf.png)
